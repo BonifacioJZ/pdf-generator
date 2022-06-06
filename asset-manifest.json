@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pdf-generator/static/css/main.80cce5ef.css",
+    "main.js": "/pdf-generator/static/js/main.6fe62303.js",
+    "static/js/498.3aee3fa9.chunk.js": "/pdf-generator/static/js/498.3aee3fa9.chunk.js",
+    "static/js/703.27fd9015.chunk.js": "/pdf-generator/static/js/703.27fd9015.chunk.js",
+    "static/js/560.5b03b7be.chunk.js": "/pdf-generator/static/js/560.5b03b7be.chunk.js",
+    "static/js/787.ad15ad80.chunk.js": "/pdf-generator/static/js/787.ad15ad80.chunk.js",
+    "index.html": "/pdf-generator/index.html",
+    "main.80cce5ef.css.map": "/pdf-generator/static/css/main.80cce5ef.css.map",
+    "main.6fe62303.js.map": "/pdf-generator/static/js/main.6fe62303.js.map",
+    "498.3aee3fa9.chunk.js.map": "/pdf-generator/static/js/498.3aee3fa9.chunk.js.map",
+    "703.27fd9015.chunk.js.map": "/pdf-generator/static/js/703.27fd9015.chunk.js.map",
+    "560.5b03b7be.chunk.js.map": "/pdf-generator/static/js/560.5b03b7be.chunk.js.map",
+    "787.ad15ad80.chunk.js.map": "/pdf-generator/static/js/787.ad15ad80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80cce5ef.css",
+    "static/js/main.6fe62303.js"
+  ]
+}
